@@ -5,3 +5,12 @@ saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
+__pycache__/
+bottleneck_features/DogInceptionV3Data.npz
+bottleneck_features/DogResnet50Data.npz
+bottleneck_features/DogXceptionData.npz
+haarcascades/haarcascade_eye.xml
+haarcascades/haarcascade_frontalface_alt2.xml
+saved_models/weights.best.ResNet50.hdf5
+saved_models/weights.best.incept.hdf5
+saved_models/weights.best.xcept.hdf5
